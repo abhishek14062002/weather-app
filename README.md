@@ -1,5 +1,5 @@
 # weather-app
-Using HTML5,CSS3,JS
+
 Features:
 Developed a Weather Application using HTML, CSS, and JavaScript with a clean and responsive user interface.
 
